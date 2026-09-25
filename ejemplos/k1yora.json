@@ -1,0 +1,11 @@
+{
+  "music": "tema.mp3", "music_start": 0,
+  "hook": {"path": "geometry-dash.mp4", "start": 3.0, "dur": 1.2},
+  "clips": [
+    {"path": "jugada1.mp4", "start": 12.0, "dur": 1.2, "grade": "warm", "fisheye": [0.55], "flash": [0.05]},
+    {"path": "jugada2.mp4", "start": 4.5, "dur": 1.0, "grade": "cold", "flash": [0.6]},
+    {"path": "jugada3.mp4", "start": 20.0, "dur": 2.7, "grade": "warm", "fisheye": [0.25], "flash": [1.3, 2.2]}
+  ],
+  "thermal": {"path": "jugada2.mp4", "start": 4.5, "dur": 1.0},
+  "end": {"image": "meme.png", "text": "крейзи o_0", "dur": 0.7}
+}

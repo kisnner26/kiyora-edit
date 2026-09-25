@@ -1,0 +1,13 @@
+{
+  "music": "musica.wav", "music_start": 0,
+  "shots": [
+    {"path": "revelacion.mp4", "start": 0, "dur": 7.0, "speed": 1.0, "push": 1.12, "mono": 1.0},
+    {"path": "captura-app.png", "still": true, "dur": 3.2, "push": 1.07, "sweep": true, "mono": 0.9},
+    {"path": "detalle.mp4", "start": 2.0, "dur": 3.0, "speed": 0.5, "cine": true, "cut": true}
+  ],
+  "titles": [
+    {"after": 0, "text": "Zarcillo.", "dur": 2.6, "gradient": [[255, 170, 205], [235, 110, 160]]},
+    {"after": 1, "text": "0", "sub": "cables. Solo tu Wi-Fi.", "number": true, "dur": 2.4}
+  ],
+  "end": {"text": "Zarcillo.", "sub": "Se estira desde tu iPhone y se agarra a tu Mac.", "dur": 3.2}
+}
